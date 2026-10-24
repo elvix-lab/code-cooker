@@ -1,0 +1,6 @@
+{
+  "name": "code-cooker",
+  "description": "程序员代码工坊 - 多语言算法主干与语言专项沉浸式刷题平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
